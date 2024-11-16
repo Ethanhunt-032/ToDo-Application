@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#To-Do Application  
+- I built a to-do application using 'React' and 'Bootstrap', and supports HTML, CSS, JS designed for efficient task management. It allows users to add new tasks, edit existing ones, and delete them as needed. With a clean and simple interface, it ensures seamless organization and tracking of tasks.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
